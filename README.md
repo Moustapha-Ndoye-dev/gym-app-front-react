@@ -216,4 +216,4 @@ Ne commitez jamais de secrets.
 
 ## Auteur
 
-**Moustapha Ndoye** — ingénieur fullstack, sécurité applicative et produits SaaS.
+**Moustapha Ndoye**
